@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to ppya.github.io
 
 You can use the [editor on GitHub](https://github.com/ppya0812/ppya.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
